@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/21557221/README.md)
+
 # Doctor Appointment Booking System
 
 A NestJS backend application for managing doctor appointments, built with TypeScript, SQLite, and TypeORM.
@@ -121,6 +121,3 @@ src/
 └── main.ts                 # Application entry point
 ```
 
-## License
-
-MIT
